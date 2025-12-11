@@ -88,11 +88,3 @@ Me chamo Bruno Gomes, tenho 26 anos e sou natural de Balneário Camboriu. Atualm
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunoocgomes&show_icons=true)
